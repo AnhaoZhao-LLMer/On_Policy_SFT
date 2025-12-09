@@ -17,7 +17,7 @@ This repository contains the official implementation of **On-Policy Supervised F
 
 ## 📖 Overview
 
-On-Policy SFT is a framework for performing supervised fine-tuning in an on-policy manner, aiming to leverage _on-policy strategy_ to mitigate forgetting during SFT, and to reduce entropy collapse in RLVR by _lowering token-wise gradient variance_.
+On-Policy SFT is a framework for performing supervised fine-tuning in an on-policy manner, aiming to leverage _on-policy strategy_ to mitigate **forgetting** during SFT, and to reduce **entropy collapse** in RLVR by _lowering token-wise gradient variance_.
 
 ---
 
